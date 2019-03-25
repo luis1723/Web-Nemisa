@@ -1,0 +1,246 @@
+a.nav-link{
+
+  color: #cdd2d7;
+
+}
+
+a.nav-link:hover{
+
+color: white;
+cursor: pointer;
+
+}
+
+.carousel-inner > .carousel-item > img {
+  
+  height:540px!important;
+
+}
+
+
+
+.module-card-carousel-home .background--cover {
+    background-attachment: inherit;
+}
+div.background--cover {
+    background-position: center center!important;
+    background-repeat: no-repeat!important;
+    background-size: cover!important;
+}
+
+.height--am > * {
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.height--am, .height--ab {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+.height--full {
+    height: 100vh;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+.floating {
+    position: relative;
+    z-index: 1;
+}
+
+
+.box--left {
+  width: 49%;
+  margin-left: 2.5%;
+  float: left;
+  clear: both;
+}
+.box {
+  padding: 2.5%;
+  padding-right: 2.5%;
+}
+
+.background--light {
+  background-color: #fff;
+}
+
+
+a.nemisa-link{
+  color: black;
+  text-decoration: none;
+
+}
+
+h2.first-row{
+
+  color:#b28b4b;
+
+}
+
+p.first-row{
+
+  color:#2f2223;
+
+}
+
+h2.second-row{
+
+color: #2e2a21;
+
+
+}
+
+p.second-row{
+
+color:#2f2223;
+
+
+}
+
+h2.third-row{
+
+  color: #eab615;
+
+}
+
+p.third-row{
+
+color:#1f1c14;
+
+}
+
+h2.four-row{
+
+  color: #182954;
+
+}
+
+p.four-row{
+
+  color:#6a7982;
+
+}
+
+h2.final-row{
+
+  color: #f4b43f;
+
+}
+
+p.final-row{
+
+  color:#060606;
+
+}
+
+footer.container-fluid{
+
+  background-color: rgba(0, 0, 0, .85);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+
+}
+
+a.nemisa-color{
+    color:#cdd2d7;
+    text-decoration: none;
+    text-align: center!important;
+}
+
+a.nemisa-color:hover{
+    color: white;
+}
+
+
+.btn-outline-dark {
+    color: white;
+    border-color: white;
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+.btn-outline-dark:hover {
+    color:rgba(0, 0, 0, .85);   
+    border-color: rgba(0, 0, 0, .85);
+    text-decoration: none;
+    background-color: white;
+    width: 31px;
+    height: 31px;
+    border-radius: 25px;
+    font-size: 15px;
+    line-height: 1.33;
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+.featurette-divider{
+
+    background-color:#cdd2d7;
+}
+
+footer{
+
+color: white;
+
+}
+
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color:rgba(0, 0, 0, .85); /* Set a background color */
+  color:  #c9cac4; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+
+.btn-secondary {
+  background-color: #343a40 !important;
+  border-color: #545b62;
+  color: white !important;
+}
+
+.btn-secondary:hover {
+  background-color: white !important;
+  border-color: #545b62;
+  color: #545b62 !important;
+}
+
+.btn-secondary-email {
+  background-color:transparent !important;
+  border-color: white;
+  color: white !important;
+}
+
+.btn-secondary-email:hover {
+
+  background-color:white !important;
+  border-color: white;
+  color: #545b62 !important;
+}
+
+div.jumbotron{
+
+  margin-bottom:0px!important;
+  background-color:#060606!important; 
+  color: white;
+  border-radius: 0!important;
+}
+
